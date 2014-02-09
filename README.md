@@ -1,4 +1,4 @@
-Modern Family Quotes
+Demo Mobile App
 =============================
 
 &copy; Copyright 2013 Trevor D Miller
